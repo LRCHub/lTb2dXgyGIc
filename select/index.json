@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "「いちご白書」をもう一度",
+  "base_artist": "德永英明",
+  "createdAt": "2026-02-25T13:38:29.275395Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "『いちご白書』をもう一度",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/01_『いちご白書』をもう一度_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "｢いちご白書」をもう一度",
+      "artist": "Bang Bang",
+      "has_synced": false,
+      "path": "select/02_「いちご白書」をもう一度_Bang_Bang.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「いちご白書」をもう一度",
+      "artist": "バンバン",
+      "has_synced": true,
+      "path": "select/03_「いちご白書」をもう一度_バンバン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「いちご白書」をもう一度",
+      "artist": "徳永 英明",
+      "has_synced": false,
+      "path": "select/pl_01_「いちご白書」をもう一度_徳永_英明.txt"
+    }
+  ]
+}
